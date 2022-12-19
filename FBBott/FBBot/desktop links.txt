@@ -1,0 +1,23 @@
+important 
+https://stackoverflow.com/questions/38749756/python-no-such-element-unable-to-locate-element-method-id-selectorema
+
+FoxitSolutionz@gmail.com
+cplus098765
+
+conda install -c conda-forge selenium
+
+implemented
+https://mnurdin.com/how-to-extract-data-using-selenium-without-using-facebook-graph-api/
+
+click: Allow issue
+https://www.youtube.com/watch?v=EVSECAbTTls
+
+Instabot, whatsapp bot, fb bot 
+
+https://www.youtube.com/watch?v=GdMYapopa4I
+
+group posting
+https://www.youtube.com/watch?v=CnBJPBFlhyc
+
+multiple post
+https://github.com/AissaouiD/Auto-poster-for-facebook-groups/blob/master/autopost.py

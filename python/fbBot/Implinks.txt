@@ -1,0 +1,30 @@
+https://www.thepythoncode.com/article/make-bot-fbchat-python
+
+https://www.youtube.com/watch?v=Hw21qZs7xkA
+
+https://www.youtube.com/watch?v=EmbGOLaoJQA
+
+
+lib
+https://pypi.org/project/fb/
+
+bot
+https://bitsdroid.com/facebook-bot/
+
+
+
+conda install -c conda-forge selenium
+
+
+imp
+https://www.youtube.com/watch?v=EmbGOLaoJQA
+
+
+
+imp channel for python
+https://www.youtube.com/c/Try2Catch/videos
+
+
+
+multiple group post
+https://github.com/AissaouiD/Auto-poster-for-facebook-groups/blob/master/autopost.py
