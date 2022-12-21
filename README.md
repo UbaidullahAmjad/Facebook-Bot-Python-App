@@ -25,7 +25,7 @@ Social Media Marketing
 - Laptop
 - Desktop
 
-# What We Delivered:
+## What We Delivered:
 We developed complete marketing solutions for businesses in order to get a real organic audience for their businesses. Following are the functionalities that our system performs.
 - Log in through your Facebook account
 - Collect the relevant marketing group information
